@@ -31,7 +31,7 @@ Before that I was shipping ML infra at **adMarketplace**, and before that buildi
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| **$100K** | **280+** | **500+** | **66** |
+| **$320K** | **280+** | **500+** | **4** |
 | NJ state AI grant secured | teams we beat for it | students on the platform | NJ institutions in reach |
 | **+2.3 dB** | **96.13%** | **5x** | **3** |
 | SNR over NVIDIA CleanUNet | deepfake detection accuracy | hackathons won | open-source libs contributed to |
